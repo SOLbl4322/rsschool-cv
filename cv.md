@@ -2,8 +2,8 @@
 ### My name is Ilya Perlov
 ---
 ### Contacts: 
-   >str.il@mail.ru  
-   >[Vk](https://vk.com/lemon666666)     
+   >[Vk](https://vk.com/lemon666666)  
+   >str.il@mail.ru     
 ### About me:
 I live in Belarus, in the city of Gomel.
 My goal is to learn as much as possible and become a developer in the future. Of the strengths is friendship and the desire to learn something new.
