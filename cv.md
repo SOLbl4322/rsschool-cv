@@ -9,9 +9,9 @@ I live in Belarus, in the city of Gomel.
 My goal is to learn as much as possible and become a developer in the future. Of the strengths is friendship and the desire to learn something new.
 
 ### Skills:
->Worked with programming languages:   
-> * С/С++    
-> * JavaScript  
+>Worked with programming languages:     
+> * JavaScript 
+> * С/С++     
 > * Java  
 > * CSS 
 > * HTML  
