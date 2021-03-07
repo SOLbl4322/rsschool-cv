@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>curriculum vitae</title>
+   <link rel="stylesheet" href="css/Main.css">
+</head>
+<body>
+   <div id="layer1">
+      <header class="header">
+         <div class="resume">
+            <h1>My resume</h1>
+         </div>   
+         <div class="headerImage">
+            <img class="img-fluid" src="image/EFkxV4dXoAAtKRb.jpg" alt="Wait">
+            <h2 class="name">Im Ilia Perlov</h2>
+         </div>
+      </header>
+      <hr>
+      <section class="about me">  
+         <h2 class="h2">About me</h2>
+            <div class="content">
+               <p>I live in Belarus, in the city of Gomel.
+                  <br>My goal is to learn as much as possible and become a developer in the future. Of the strengths is friendship and the desire to learn something new.
+               </p>   
+            </div>
+      </section>
+      <section class="Skills">  
+         <h2 class="h2">Skills</h2>
+         <div class="content">
+            <p>Worked with programming languages:</p>
+            <ul class="langust">
+               <li>Java</li>
+               <li> JavaScript</li>
+               <li>HTML</li>
+               <li>CSS</li>
+               <li>C/C++</li>
+            </ul>
+         </div>
+      </section>
+      <section class="Sample">
+         <h2 class="h2">Sample code</h2>
+         <div class="content">
+            <p>
+               In this kata, you are asked to square every digit of a number and concatenate them.<br>
+               <br>
+               For example, if we run 9119 through the function, 811181 will come out, because 92 is 81 and 12 is 1.<br>
+               <br>
+               Note: The function accepts an integer and returns an integer<br>
+
+            </p>
+            <div id="layer2">
+          <pre class="Sample-code">
+            function squareDigits(num){  
+               var arr = num.toString().split('');  
+               var sos = arr.map(n => n * n);  
+               var gg = sos.join('');  
+               return +gg;  
+               }
+             </pre>
+         </div>
+      </div>
+      </section>
+      <section class="educ">
+         <h2 class="h2">Education</h2>
+         <div class="content">
+            <P>I am studying at the Belarusian State University of Transport.<br>
+               I am currently taking courses on "JavaScript / Front-end".<br>
+            </P> 
+         </div>
+      </section>
+      <section class="English">
+         <h2 class="h2">English level</h2>
+         <div class="content">
+            <P>A2 - elementary.</P>
+         </div>
+      </section>
+   <footer class="footer">
+      <div class="fooret-content">
+      <h3>Contacts</h3>
+      <nav class="nav">
+         <ul class="spisok">
+            <li class="spisok-item1">
+               <a class="link" href="https://vk.com/lemon666666">Vk</a>
+            </li>
+            <li class="spisok-item" aria-disabled="true">
+               <a class="link" href="str.il@mail.ru">Email</a>
+            </li>
+            <li class="spisok-item">
+               <a class="link" href="https://www.instagram.com/_perlov/">Instagram</a>
+            </li>
+         </ul>
+      </nav>
+      </div>
+   </footer>
+</div>
+</body>
+</html>
