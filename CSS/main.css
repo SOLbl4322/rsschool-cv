@@ -1,0 +1,116 @@
+
+body{
+    min-height: 100vh;
+    background: url(../image/fon2.jpg) no-repeat fixed;
+    background-size: cover;
+    margin: 0 auto;
+    font-size: 20px;
+    margin-top: 15px;
+    padding-left: 15%;
+    padding-right: 15%;
+    color:white;
+ }
+
+  #layer1 {
+   width: 100%;/* Ширина слоя */
+   height: 100%; /* Высота слоя */
+   padding: 50px; /* Поля вокруг текста */
+   background-color:rgb(255, 255, 255);
+   background: rgba(0, 0, 0, 0.6);
+  }
+  #layer2 {
+   width: 100%;/* Ширина слоя */
+   height: 100%; /* Высота слоя */
+   padding-block: 50px; /* Поля вокруг текста */
+   background-color:rgb(142, 223, 243);
+   background: rgba(159, 233, 255, 0.6);
+  }
+  .sample-code{
+   color:rgba(0, 0, 0, 0.979);
+   font-style: oblique;
+ }
+ h1{
+    font-size: 100px;
+ }
+ 
+ .langust{
+    margin: 0;
+    color:white;  
+ }
+ .spisok{
+   margin: 0;
+   color:white; 
+   display: flex;
+   text-align: center;
+ }
+
+ h3{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    color:white;
+ } 
+ hr {
+    color:white;
+ }
+
+ .header{
+    height: 20%;
+    display: flex;
+    justify-content: space-between;
+    color:white;
+ }
+ .headerImage{
+    margin: auto 0;
+    text-align: center;
+    padding: 0px; 
+    
+ }
+ .img-fluid{
+    
+    width: 75%;
+    border-radius: 50%;
+    margin: auto 0;
+    color:white;
+    padding: 0px;
+ }
+ .resume{
+    margin: auto 0;
+    text-align: center;
+    padding-left: 25%;
+ }
+ 
+ .content{
+    padding-left: 30px;
+    color:white;
+ }
+ .footer{
+    width: 100%;
+    min-height: 80px;
+    background-color: rgb(3, 118, 153,0.5);
+    padding-top: 8px;
+    padding-bottom: 8px;
+ }
+ .fooret-content{
+    padding-left: 15%;
+    padding-right: 15%;
+ }
+ .link{
+    color:black;
+    transition: color .2s linear;
+    color:white;
+ }
+ .link:hover{
+    color:rgb(253, 28, 28);
+ }
+ .name{
+    font-size: 50px;
+ }
+ .spisok-item{
+
+    margin-left: 43%;
+ }
+ .nav{
+    margin-top: 15px;
+ }
+ 
