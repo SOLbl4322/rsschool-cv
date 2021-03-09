@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/SOLbl4322/rsschool-cv/
+https://SOLbl4322.github.io/rsschool-cv/cv
